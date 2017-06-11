@@ -1,0 +1,12 @@
+Submitting assignment 6 from p165.ecf.utoronto.ca
+Checking for the expected files in the current directory
+Shape.h Shape.cpp ShapeArray.h ShapeArray.cpp Triangle.h Triangle.cpp easygl.h easygl_constants.h graphics.h easygl.cpp graphics.cpp Main.cpp Rectangle.h Rectangle.cpp Circle.h Circle.cpp Polygon.cpp Polygon.h
+can't find file 'Polygon.cpp'.
+can't find file 'Polygon.h'.
+
+Error: cannot find all expected files in the current directory.
+Please make sure all necessary files are in the current directory. Also, 
+check that the file names are correct, including capitalization.
+
+No files were submitted
+
